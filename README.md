@@ -1,3 +1,3 @@
 # Calculator-Vanilla-JavaScript
 
-A calculator built with vanilla `js` and ES6 Classes and CSS grid.
+A calculator built with vanilla `js`, ES6 Classes and CSS grid.
